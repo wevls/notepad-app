@@ -7,8 +7,15 @@ It’s a work in progress — currently focused on improving file handling, usab
 ```
 >Make the file save to an actual directory, in the same one as the fucking python file
 >Open files already done (make a menu or sm?)
->Add a gui at some point potentially
+>Add a gui at some point potentially in tkinter
 >Add support for different filetypes
 >Add an encryption system
 >Add a standalone release using Pyinstaller or Nuitka idk yet
+>Version system maybe
+>Better error handling
+```
+## Changelog
+```
+V-0.1
+created the file lmao
 ```
