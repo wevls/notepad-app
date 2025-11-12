@@ -5,8 +5,8 @@ It’s a work in progress — currently focused on improving file handling, usab
 
 ## To-Do List
 ```
->Make the file save to an actual directory, in the same one as the fucking python file
->Open files already done (make a menu or sm?)
+>Make the file save to an actual directory, in the same one as the fucking python file ✅ 
+>Open files already done with reading not just appending (make a menu or sm?) 
 >Add a gui at some point potentially in tkinter
 >Add support for different filetypes
 >Add an encryption system
@@ -16,6 +16,9 @@ It’s a work in progress — currently focused on improving file handling, usab
 ```
 ## Changelog
 ```
-V-0.1
+V-0x02
+Fixed directory issue, will add more control later but at the moment it just saves within the directory of the python script.
+
+V-0x01
 created the file lmao
 ```
