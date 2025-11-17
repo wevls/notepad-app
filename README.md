@@ -6,16 +6,19 @@ It’s a work in progress — currently focused on improving file handling, usab
 ## To-Do List
 ```
 >Make the file save to an actual directory, in the same one as the fucking python file ✅ 
->Open files already done with reading not just appending (make a menu or sm?) 
+>Open files already done with reading not just appending (make a menu or sm?) ✅ 
 >Add a gui at some point potentially in tkinter
->Add support for different filetypes
+>Add support for different filetypes ✅ (kinda(
 >Add an encryption system
 >Add a standalone release using Pyinstaller or Nuitka idk yet
 >Version system maybe
->Better error handling
+>Better error handling✅ 
 ```
 ## Changelog
 ```
+V-0x03
+Fully functional
+
 V-0x02
 Fixed directory issue, will add more control later but at the moment it just saves within the directory of the python script.
 
